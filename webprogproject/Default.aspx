@@ -8,7 +8,7 @@
         </p>
         <br />
         <p>
-        Developed with C# and .NET Framework 
+        Developed with C#, .NET Framework, Bootstrap and Jquery. 
         </p>
     </div>
 
